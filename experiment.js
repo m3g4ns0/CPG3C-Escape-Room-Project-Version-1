@@ -1,3 +1,4 @@
+//megan
 var panelx; //the xvalue for the panel also known as the place where all the items the player picks up goes to.
 var panely; //the yvalue for the panel
 
